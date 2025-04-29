@@ -2,6 +2,21 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+
+
+
 First, run the development server:
 
 ```bash
